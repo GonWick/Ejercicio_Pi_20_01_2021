@@ -31,6 +31,6 @@
         V = Pi * (R ^ 2) * H
         Label3.Font = New Font("Arial", 8, FontStyle.Bold)
         Label3.TextAlign = ContentAlignment.MiddleCenter
-        Label3.Text = ("El volumen del cilindro es de " & V & " metros cubicos cuadrados")
+        Label3.Text = ("El volumen del cilindro es de " & V & " metros cúbicos")
     End Sub
 End Class
